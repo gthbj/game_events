@@ -37,7 +37,11 @@
 看板可通过筛选器筛选系统、国家和事件日期。
 DAU和IAP收入分别做了曲线图；平均会话时长（分钟）和每次会话的平均社交互动次数做在了表格中。
 具体如下图所示：
+### 看板主页
 ![看板主页](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/metabase_dashboard.jpg)
+### 筛选器-系统
 ![筛选器-系统](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/device_type.jpg)
+### 筛选器-国家
 ![筛选器-国家](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/location.jpg)
+### 筛选器-日期
 ![筛选器-日期](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/date.jpg)
