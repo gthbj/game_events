@@ -8,6 +8,9 @@
 4. 随机去除一些行和一些行内的某个字段的内容，模拟需要被清洗的数据。
 
 # 任务2
+通过sql进行数仓分层处理，使用Python的sqlite3库将数据写入sqlite数据库中。
+[sqlite数据库文件交付，从Google Drive下载](https://drive.google.com/file/d/1EMRcCvkOqIC_aIE2EMBU65FZa-y1jxF4/view?usp=sharing)
+
 ## ODS
 生成的CSV文件不做修改，直接传入数据库作为ODS层数据
 
@@ -35,6 +38,6 @@
 DAU和IAP收入分别做了曲线图；平均会话时长（分钟）和每次会话的平均社交互动次数做在了表格中。
 具体如下图所示：
 ![看板主页](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/metabase_dashboard.jpg)
-![筛选器-系统](ttps://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/device_type.jpg)
+![筛选器-系统](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/device_type.jpg)
 ![筛选器-国家](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/location.jpg)
 ![筛选器-日期](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/date.jpg)
