@@ -27,8 +27,8 @@
 按照四个需求聚合出了三张ADS表，可供可视化看板直接使用，无需再进行数据处理。
 
 # 任务3
-使用了metabase作为数据可视化的工具，将看板部署在本地。
-[metabase官方网站](https://www.metabase.com/)
+使用了开源项目metabase作为数据可视化的工具，将看板部署在本地。
+[metabase开源项目官方网站](https://www.metabase.com/start/oss/)
 
 ## 数据集成
 ![数据集成-sqlite数据源](https://raw.githubusercontent.com/gthbj/game_events/refs/heads/main/metabase_sqlite_database.jpg)
